@@ -1,7 +1,7 @@
 ## Agentic RAG APP with FastAPI, Ollama and Vue.js UI 
 
 
-The fantastic LangGraph's Agentic RAG  moves beyond simple retrieval to intelligent, goal-oriented problem-solving, making it powerful for complex, real-world applications. Agentic RAG improves answer quality and reliability by planning multi-step reasoning, issuing adaptive retrievals, using tools (search, code, SQL) for grounding, and running self-critique loops to verify claims and reduce hallucinations. 
+The LangGraph's Agentic RAG  moves beyond simple retrieval to intelligent, goal-oriented problem-solving, making it powerful for complex, real-world applications. Agentic RAG improves answer quality and reliability by planning multi-step reasoning, issuing adaptive retrievals, using tools (search, code, SQL) for grounding, and running self-critique loops to verify claims and reduce hallucinations. 
 
 
 Following the LangGraph official [documentation](https://docs.langchain.com/oss/python/langgraph/agentic-rag), I created a production oriented agentic LangGraph RAG APP using FastAPI,  Qdrant vector database and Ollama Docker containers, with a  Vue.js UI — all bundled in a single‑click docker-compose.yml.
